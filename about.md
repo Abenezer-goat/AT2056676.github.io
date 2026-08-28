@@ -15,4 +15,4 @@ My current top career choice is becoming a Basketball Operations Specialist beca
 
 [Home](index.md)
 
-theme: jekyll-theme-Time machine
+theme: jekyll-theme-modernist
