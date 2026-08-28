@@ -126,5 +126,3 @@ Checklists = Progress
 Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 Keep it simple, consistent, and clear.
-
-theme: jekyll-theme-Time machine
