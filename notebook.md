@@ -119,9 +119,12 @@ Use collapsible sections if you want to hide answers until review time.
 Headings = Structure
 Bold/Italic = Emphasis
 Code blocks = Code
+
 Lists = Steps/Ideas
 Tables = Organization
 Checklists = Progress
 Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 Keep it simple, consistent, and clear.
+
+theme: jekyll-theme-Time machine
